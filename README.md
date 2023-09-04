@@ -20,5 +20,5 @@
 
 **3.** run streamlink:
 
-`streamlink https://twitter.com/i/broadcasts/1vOxwMVpAZqGB best`
+`streamlink https://twitter.com/i/broadcasts/1OyKAVjzgYaGb best`
 

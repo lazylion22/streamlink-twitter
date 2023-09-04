@@ -16,7 +16,7 @@
 
     `${HOME}/Library/Application Support/streamlink/plugins`
         
-**2.** copy `twitter.py` 
+**2.** drop `twitter.py` inside of it
 
 **3.** run streamlink:
 

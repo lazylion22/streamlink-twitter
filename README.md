@@ -1,24 +1,21 @@
-# A Twitter plugin for Streamlink
+# Twitter plugin for Streamlink
 
-**To use this plugin :**  
+to use this add `twitter.py` to
 
-**1.**  create the following folder:
+**Windows:**
 
-* **Windows:**
+`C:\Users\%username%\AppData\Roaming\streamlink\plugins`
 
-    `C:\Users\%username%\AppData\Roaming\streamlink\plugins`
+**Linux:**
 
-* **Linux:**
+`~/.local/share/streamlink/plugins`
 
-    `~/.local/share/streamlink/plugins`
+**Mac:**
 
-* **Mac:**
+`${HOME}/Library/Application Support/streamlink/plugins`
 
-    `${HOME}/Library/Application Support/streamlink/plugins`
-        
-**2.** drop `twitter.py` inside of it
+\------
 
-**3.** run streamlink:
+then run :
 
-`streamlink https://twitter.com/i/broadcasts/1OyKAVjzgYaGb best`
-
+`streamlink https://x.com/i/broadcasts/1OwxWYzDXjWGQ best`
